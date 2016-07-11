@@ -6,7 +6,7 @@
 /*   By: jaubard <jaubard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/12/10 10:56:57 by jaubard           #+#    #+#             */
-/*   Updated: 2015/12/18 10:27:49 by jaubard          ###   ########.fr       */
+/*   Updated: 2016/07/11 19:35:19 by lnieto-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 # define BUF_SIZE 546
 
 # include "libft.h"
+# include <unistd.h>
 # include <stdlib.h>
 # include <fcntl.h>
 
